@@ -182,5 +182,8 @@
       "lib/commands",
       "lib/startup"
     ]
+  },
+  "dependencies": {
+    "@icholy/duration": "^5.1.0"
   }
 }
